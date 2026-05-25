@@ -1,0 +1,6 @@
+{
+  "name": "MCNA ERP Pro",
+  "description": "Hệ thống Quản trị Doanh nghiệp ERP toàn diện dành cho MCNA Technology School",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
